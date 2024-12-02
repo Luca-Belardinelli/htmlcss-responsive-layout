@@ -254,6 +254,11 @@
         margin-top: 0;
     }
 
+    .lista {
+        display: inline-flex;
+        margin-right: 30px;
+        gap: 3px;
+    }
 
     .link span{
         display: none;
@@ -276,7 +281,7 @@
     .presentazione{
         width: 85%;
         padding-left: 0;
-        margin-top: 0;
+        margin-top: 30px;
     }
 
     .presentazione img{
@@ -292,6 +297,8 @@
         padding-top: 40px;
         padding-left: 0;
     }
+
+
 
 
 }
